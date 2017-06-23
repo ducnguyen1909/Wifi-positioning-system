@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingRight="@dimen/padding_left"
+    android:paddingLeft="@dimen/padding_left"
+    android:paddingBottom="@dimen/padding_top"
+    android:paddingTop="@dimen/padding_top">
+
+
+    <TextView
+        android:id="@+id/txtNameBuilding"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_normal"/>
+</LinearLayout>
